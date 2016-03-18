@@ -1,0 +1,50 @@
+.page-scroll{
+	z-index:100;
+	padding-right: 30px;
+	padding-left: 40px; 
+	font-size:18px;
+	
+}
+#container{
+	position:fixed;
+	z-index: 1;
+}
+header{
+	height: 850;
+	background-size:100% 100%;
+	background-repeat:none;
+	background-attachment:scroll;
+	background-position:center center;
+	text-align:center;
+	color:#fff
+	}
+header .container{
+	padding-top:100px;
+	padding-bottom:50px
+}
+header .intro-text{
+	font-size: 60px;
+	color: #fff;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+header .intro-text .intro-lead-in {
+	font-size: 30px;
+}
+#contact{
+	 height: auto;
+	 background-image:url(http://designyoutrust.com/wp-content/uploads/2013/03/man-of-steel-movie-desktop-mac-wallpaper.jpg);
+	 background-size:100% 100%;
+	 background-repeat: no-repeat;
+}
+footer{
+	height: auto;
+	background-image:url(http://designyoutrust.com/wp-content/uploads/2013/03/man-of-steel-movie-desktop-mac-wallpaper.jpg);
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	font-size: 18px;
+}
+footer .bottom{
+	font-size: 20px;
+}

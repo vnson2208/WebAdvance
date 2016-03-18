@@ -1,0 +1,11 @@
+.page-scroll{
+	z-index:100;
+	padding-right: 30px;
+	padding-left: 40px; 
+	font-size:18px;
+	
+}
+#container{
+	position:fixed;
+	z-index: 1;
+}
